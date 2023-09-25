@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0]
+### Uncategorized
+- fill in changelog
+- chore: add boilerplate CHANGELOG.md
+- 1.2.0
+- Merge branch 'ci-node-18'
+- circleci image deprecation
+- ci: run on nodejs v18 by default
+
 ## [1.2.0]
 ### Changed
 - Dependency changes
@@ -31,8 +40,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Add documentation
 
-[Unreleased]: https://github.com/MetaMask/nonce-tracker/compare/v1.2.0...HEAD
-[1.0.0]: https://github.com/MetaMask/nonce-tracker/compare/v1.1.0...v1.2.0
-[1.0.1]: https://github.com/MetaMask/nonce-tracker/compare/v1.0.1...v1.1.0
-[1.0.1]: https://github.com/MetaMask/nonce-tracker/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/MetaMask/nonce-tracker/releases/tag/v1.0.0
+[Unreleased]: https://github.com/legobeat/nonce-tracker/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/legobeat/nonce-tracker/compare/v1.2.0...v1.3.0
+[1.2.0]: https://github.com/legobeat/nonce-tracker/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/legobeat/nonce-tracker/compare/v1.0.1...v1.1.0
+[1.0.1]: https://github.com/legobeat/nonce-tracker/releases/tag/v1.0.1
