@@ -7,20 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.0.0]
-### Uncategorized
-- chore: apply changelog lint
-- ci: enable changelog linting
-- devDeps: add @metamask/auto-changelog
-- Revert "2.0.0 (#48)" ([#48](https://github.com/legobeat/nonce-tracker/pull/48))
-- 2.0.0 ([#48](https://github.com/legobeat/nonce-tracker/pull/48))
-- migrate to yarn v3 ([#49](https://github.com/legobeat/nonce-tracker/pull/49))
-- yarn dedupe ([#47](https://github.com/legobeat/nonce-tracker/pull/47))
-- deps: switch from ethjs-query to @ethersproject/providers ([#39](https://github.com/legobeat/nonce-tracker/pull/39))
-- Minimum Node.js version 14 ([#42](https://github.com/legobeat/nonce-tracker/pull/42))
-- 1.2.0 ([#46](https://github.com/legobeat/nonce-tracker/pull/46))
-- chore: fix repository url in package manifest to https ([#43](https://github.com/legobeat/nonce-tracker/pull/43))
-- ci: Run on Node.js v18 by default ([#44](https://github.com/legobeat/nonce-tracker/pull/44))
-- Revert "1.2.0 (#40)" ([#40](https://github.com/legobeat/nonce-tracker/pull/40))
+### Changed
+- **BREAKING:** Switched from `ethjs-query` to `@ethersproject/providers` ([#39](https://github.com/MetaMask/nonce-tracker/pull/39))
+- **BREAKING:** Minimum Node.js version is now 14 ([#42](https://github.com/MetaMask/nonce-tracker/pull/42))
 
 ## [1.2.0]
 ### Changed
@@ -44,8 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Add documentation
 
-[Unreleased]: https://github.com/legobeat/nonce-tracker/compare/v2.0.0...HEAD
-[2.0.0]: https://github.com/legobeat/nonce-tracker/compare/v1.2.0...v2.0.0
-[1.2.0]: https://github.com/legobeat/nonce-tracker/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/legobeat/nonce-tracker/compare/v1.0.1...v1.1.0
-[1.0.1]: https://github.com/legobeat/nonce-tracker/releases/tag/v1.0.1
+[Unreleased]: https://github.com/MetaMask/nonce-tracker/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/MetaMask/nonce-tracker/compare/v1.2.0...v2.0.0
+[1.2.0]: https://github.com/MetaMask/nonce-tracker/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/MetaMask/nonce-tracker/compare/v1.0.1...v1.1.0
+[1.0.1]: https://github.com/MetaMask/nonce-tracker/releases/tag/v1.0.1
